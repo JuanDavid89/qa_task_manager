@@ -109,6 +109,6 @@ Ejemplo JSON para POST /tasks (ambos frameworks):
 
 Cualquier duda o sugerencia, contactarme para continuar mejorando el proyecto.
 
-### Juan Saavedra - QA Automation / Futuro Desarrollador Backend
+### Proyecto creado por Juan David, QA Tester e Ingeniero de Automatización / Futuro Desarrollador Backend.
 
 
